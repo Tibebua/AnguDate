@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AnguDate-SPA"
+    }
+  },
+  "defaultProject": "AnguDate-SPA",
+  "cli": {
+    "analytics": false
+  }
 }
